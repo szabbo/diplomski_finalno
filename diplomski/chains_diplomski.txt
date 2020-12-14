@@ -1,0 +1,4 @@
+UseCase: diplomski
+Capture -> Split -> Select -> VPE_1 -> Alg_WarpImg (DSP1) -> Display_CF
+                    Select -> VPE_2 -> Null (A15)
+GrpxSrc -> Display_Grpx

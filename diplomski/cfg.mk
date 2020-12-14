@@ -1,0 +1,5 @@
+ALG_warpImg=yes
+NEED_PROC_IPU1_0=yes
+NEED_PROC_IPU1_1=yes
+NEED_PROC_A15=yes
+NEED_PROC_DSP1=yes
